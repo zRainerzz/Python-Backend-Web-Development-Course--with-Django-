@@ -2,7 +2,8 @@
 
 # Ignore virtual environment directory
 .venv/
-
+# Ignore get-pip.py script
+get-pip.py
 # Other files and directories to ignore
 *.pyc
 __pycache__/
